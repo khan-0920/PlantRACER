@@ -67,7 +67,7 @@ Additional tools for data preparation:
 ## Data preparation
 
 ### Data and checkpoints
-All dataset and pretrained checkpoints can download from [here](https://drive.google.com/file/d/1yCe5KR3DYU6L_WCuTuKCo8L7XDOh0jgC/view?usp=sharing)
+All dataset and pretrained checkpoints can download from [here](https://drive.google.com/file/d/1CX3MkSl7FLwdhGWFgGAkk0opmGp14QFV/view?usp=sharing)
 
 ### Expected files in `data_dir`
 
